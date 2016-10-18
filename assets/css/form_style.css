@@ -1,0 +1,11 @@
+.container h2{
+    text-align: center;
+    background-color: lightgrey;
+    padding: 5px 0px;
+
+}
+
+#form_div{
+    border: .2em solid black;
+    margin: 0px;
+}
